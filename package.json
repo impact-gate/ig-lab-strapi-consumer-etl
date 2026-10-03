@@ -1,0 +1,7 @@
+{
+  "name": "ig-lab-strapi-consumer-etl",
+  "version": "1.0.0",
+  "description": "Strapi ETL Analytics Consumer (Node.js)",
+  "main": "src/index.ts",
+  "type": "module"
+}
